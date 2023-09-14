@@ -1,6 +1,6 @@
 # User API Documentation
 
-This documentation provides information on how to use the User API to perform CRUD operations on user records. The API allows you to create, retrieve, update, and delete user records. All requests and responses are in JSON format.
+This documentation provides information on how to use the User API to perform CRUD operations on user records. The API allows you to create, retrieve, update, and delete user records. All requests and responses are in JSON format. Link to UML diagram: https://lucid.app/lucidchart/27d1ecd4-7d8e-4b94-8a59-3d85b7645649/edit?viewport_loc=28%2C159%2C1579%2C909%2C0_0&invitationId=inv_ff3196a3-d71a-4ed9-9e35-b094f243ca6a
 
 ## Base URL
 
