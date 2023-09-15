@@ -6,7 +6,7 @@ WORKDIR /var/movable/app
 
 RUN npm install
 
-COPY . /var/app
+COPY . /var/movable/app
 
 EXPOSE 3000
 
